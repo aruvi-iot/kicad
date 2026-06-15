@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MATRIX PROJECT-cache") (type "Legacy") (uri "C:/Users/AruviB/tools/kicad/MATRIX PROJECT/MATRIX PROJECT-cache.lib") (options "") (descr "Legacy project cache library"))
+)
